@@ -96,9 +96,11 @@ The main project components are:
 - Classification report generation
 - Final project conclusion report
 
----
+
 
 ##### 📂 PROJECT STRUCTURE
+
+```text
 Credit-Scoring-Project/
 │
 ├── 📁 data/
@@ -150,6 +152,7 @@ Credit-Scoring-Project/
 │   │
 │   └── 📁 pycache/
 │       └── preprocessing.cpython-314.pyc
+---
 
 ---
 ##🎓 LEARNING OUTCOMES
