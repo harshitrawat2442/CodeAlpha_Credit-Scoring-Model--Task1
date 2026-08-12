@@ -234,26 +234,26 @@ Credit Risk Prediction
 ---
 ## 🎓LEARNING OUTCOMES
 Through this project, I gained practical experience in:
-Python programming for Machine Learning.
-Data loading and preprocessing.
-Data cleaning and feature preparation.
-Train-test data splitting.
-Feature scaling using StandardScaler.
-Classification Machine Learning algorithms.
-Logistic Regression.
-Decision Tree Classifier.
-Random Forest Classifier.
-Model performance comparison.
-Model selection using evaluation metrics.
-Accuracy, Precision, Recall and F1-Score analysis.
-ROC-AUC evaluation.
-Confusion Matrix analysis.
-ROC Curve visualization.
-Feature Importance analysis.
-Model persistence using Joblib.
-Building a reusable prediction system.
-Jupyter Notebook-based Machine Learning workflow.
-Generating CSV, TXT and PNG project reports.
+-Python programming for Machine Learning.
+-Data loading and preprocessing.
+-Data cleaning and feature preparation.
+-Train-test data splitting.
+-Feature scaling using StandardScaler.
+-Classification Machine Learning algorithms.
+-Logistic Regression.
+-Decision Tree Classifier.
+-Random Forest Classifier.
+-Model performance comparison.
+-Model selection using evaluation metrics.
+-Accuracy, Precision, Recall and F1-Score analysis.
+-ROC-AUC evaluation.
+-Confusion Matrix analysis.
+-ROC Curve visualization.
+-Feature Importance analysis.
+-Model persistence using Joblib.
+-Building a reusable prediction system.
+-Jupyter Notebook-based Machine Learning workflow.
+-Generating CSV, TXT and PNG project reports.
 
 ---
 
