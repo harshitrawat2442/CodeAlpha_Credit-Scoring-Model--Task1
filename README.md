@@ -152,11 +152,98 @@ Credit-Scoring-Project/
 │   │
 │   └── 📁 pycache/
 │       └── preprocessing.cpython-314.pyc
----
+```
 
 ---
+▶️ HOW TO RUN
+Follow these steps to run the Credit Scoring Model project locally.
+1. Clone the Repository
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd Credit-Scoring-Project
+2. Install Required Libraries
+Install the required Python libraries:
+' ' 'bash
+pip install pandas numpy scikit-learn matplotlib seaborn joblib openpyxl xlrd
+3. Run Model Training 
+from the project root directory:
+## ▶️ HOW TO RUN
+Follow these steps to run the Credit Scoring Model project locally.
+# 1. Clone the Repository
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd Credit-Scoring-Project
+# 2. Install Required Libraries
+Install the required Python libraries:
+' ' 'bash
+pip install pandas numpy scikit-learn matplotlib seaborn joblib openpyxl xlrd
+# 3.Run Model Training
+From the project root directory:
+' ' 'bash
+python scr/train.py 
+This will:
 
-##🎓 LEARNING OUTCOMES
+Load the credit card dataset.
+Preprocess the data.
+Split the data into training and testing sets.
+Train Logistic Regression, Decision Tree, and Random Forest models.
+Compare model performance.
+Select the best-performing model.
+Save the trained model and scaler.
+
+The saved files will be available in:
+models/
+├── credit_model.pkl
+└── scaler.pkl
+# 4. Run Prediction
+After training the model.run:
+' ' 'bash
+python scr/predict.py
+This will load the saved model and generate:
+-Credit Risk
+-Default Probability
+-Prediction Class
+# 5.Run Model Evaluation
+Run:
+' ' 'bash
+python scr/evaluation.py
+This evaluation the trained model and generate evaluation results 
+# 6. Generate Visualizations
+Run:
+' ' 'bash
+python scr/visualization.py
+This generates model comparison, confusion matrix, ROC curve, feature importance, and other visualization files inside the outputs/ folder.
+# 7. Run the Jupyter Notebook
+Start Jupyter Notebook:
+' ' 'bash
+jupyter notebook
+Then open 
+notebooks/Credit_Scoring_Model.ipynb
+Run the notebook cells sequentially to reproduce the complete Machine Learning workflow.
+## Complete Workflow
+```text
+ Dataset
+   ↓
+Data Preprocessing
+   ↓
+Train-Test Split
+   ↓
+Feature Scaling
+   ↓
+Model Training
+   ↓
+Model Comparison
+   ↓
+Best Model Selection
+   ↓
+Model Evaluation
+   ↓
+Visualization
+   ↓
+Model Saving
+   ↓
+Credit Risk Prediction
+```
+---
+## 🎓LEARNING OUTCOMES
 Through this project, I gained practical experience in:
 Python programming for Machine Learning.
 Data loading and preprocessing.
@@ -181,7 +268,7 @@ Generating CSV, TXT and PNG project reports.
 
 ---
 
-##👨‍💻 AUTHOR
+## 👨‍💻 AUTHOR
 Harshit Singh
 Credit Scoring Machine Learning Project
 This project was developed to demonstrate practical skills in:
@@ -193,7 +280,7 @@ Predictive Analytics
 
 ---
 
-##📜 LICENSE
+## 📜 LICENSE
 This project is intended for educational and internship purposes.
 You may use, modify, and learn from the source code for educational purposes.
 For production or commercial use, appropriate validation, data licensing, security, privacy, fairness analysis, and regulatory 
