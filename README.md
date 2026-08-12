@@ -155,6 +155,7 @@ Credit-Scoring-Project/
 ---
 
 ---
+
 ##🎓 LEARNING OUTCOMES
 Through this project, I gained practical experience in:
 Python programming for Machine Learning.
@@ -177,6 +178,7 @@ Model persistence using Joblib.
 Building a reusable prediction system.
 Jupyter Notebook-based Machine Learning workflow.
 Generating CSV, TXT and PNG project reports.
+
 ---
 
 ##👨‍💻 AUTHOR
@@ -188,7 +190,9 @@ Machine Learning
 Data Analysis
 Data Visualization
 Predictive Analytics
+
 ---
+
 ##📜 LICENSE
 This project is intended for educational and internship purposes.
 You may use, modify, and learn from the source code for educational purposes.
