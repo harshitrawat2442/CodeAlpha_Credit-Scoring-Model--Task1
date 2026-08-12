@@ -97,7 +97,6 @@ The main project components are:
 - Final project conclusion report
 
 ---
----
 ##### 📂 PROJECT STRUCTURE
 Credit-Scoring-Project/
 │
@@ -150,8 +149,7 @@ Credit-Scoring-Project/
 │   │
 │   └── 📁 pycache/
 │       └── preprocessing.cpython-314.pyc
----
----
+
 ##🎓 LEARNING OUTCOMES
 Through this project, I gained practical experience in:
 Python programming for Machine Learning.
@@ -174,8 +172,7 @@ Model persistence using Joblib.
 Building a reusable prediction system.
 Jupyter Notebook-based Machine Learning workflow.
 Generating CSV, TXT and PNG project reports.
----
----
+
 ##👨‍💻 AUTHOR
 Harshit Singh
 Credit Scoring Machine Learning Project
@@ -185,10 +182,9 @@ Machine Learning
 Data Analysis
 Data Visualization
 Predictive Analytics
----
----
+
 ##📜 LICENSE
 This project is intended for educational and internship purposes.
 You may use, modify, and learn from the source code for educational purposes.
-For production or commercial use, appropriate validation, data licensing, security, privacy, fairness analysis, and regulatory requirements should be considered.
----
+For production or commercial use, appropriate validation, data licensing, security, privacy, fairness analysis, and regulatory 
+requirements should be considered.
