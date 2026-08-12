@@ -155,17 +155,6 @@ Credit-Scoring-Project/
 ```
 
 ---
-▶️ HOW TO RUN
-Follow these steps to run the Credit Scoring Model project locally.
-1. Clone the Repository
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Credit-Scoring-Project
-2. Install Required Libraries
-Install the required Python libraries:
-' ' 'bash
-pip install pandas numpy scikit-learn matplotlib seaborn joblib openpyxl xlrd
-3. Run Model Training 
-from the project root directory:
 ## ▶️ HOW TO RUN
 Follow these steps to run the Credit Scoring Model project locally.
 # 1. Clone the Repository
