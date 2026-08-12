@@ -1,0 +1,17 @@
+CREDIT SCORING MODEL - EVALUATION SUMMARY
+============================================================
+
+Model        : DecisionTreeClassifier
+Accuracy     : 0.8163
+Precision    : 0.6543
+Recall       : 0.3595
+F1-Score     : 0.4640
+ROC-AUC      : 0.7450
+Specificity  : 0.9461
+
+CONFUSION MATRIX VALUES
+------------------------------
+True Negative : 4421
+False Positive: 252
+False Negative: 850
+True Positive : 477

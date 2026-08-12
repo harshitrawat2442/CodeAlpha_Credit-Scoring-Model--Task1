@@ -1,0 +1,23 @@
+===========================================================================
+SAVED MODEL VERIFICATION REPORT
+===========================================================================
+
+Model Class : RandomForestClassifier
+Model Path  : c:\Users\harsh\OneDrive\Desktop\CODEALPHA-SCORING_MODEL\models\credit_model.pkl
+Scaler Path : c:\Users\harsh\OneDrive\Desktop\CODEALPHA-SCORING_MODEL\models\scaler.pkl
+
+VERIFICATION METRICS
+---------------------------------------------------------------------------
+Accuracy  : 0.8172
+Precision : 0.6652
+Recall    : 0.3489
+F1-Score  : 0.4577
+ROC-AUC   : 0.7733
+
+PREDICTION VALIDATION
+---------------------------------------------------------------------------
+Test samples          : 6000
+Predictions generated : 6000
+Unique classes        : [np.int64(0), np.int64(1)]
+
+Verification Status: SUCCESS

@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Specificity,True Negative,False Positive,False Negative,True Positive
+DecisionTreeClassifier,0.8163333333333334,0.654320987654321,0.359457422758101,0.46400778210116733,0.7449846969983088,0.9460731863898995,4421,252,850,477

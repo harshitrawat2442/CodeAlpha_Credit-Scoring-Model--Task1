@@ -1,0 +1,4 @@
+Model,ROC-AUC
+Random Forest,0.773306336921477
+Decision Tree,0.7449846969983088
+Logistic Regression,0.7076355036089734

@@ -1,0 +1,2 @@
+Selected_Model,Selection_Criterion,F1-Score,Accuracy,Precision,Recall,ROC-AUC
+Decision Tree,Highest F1-Score,0.46400778210116733,0.8163333333333334,0.654320987654321,0.359457422758101,0.7449846969983088
